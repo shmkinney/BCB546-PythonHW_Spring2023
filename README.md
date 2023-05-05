@@ -4,7 +4,7 @@ Python script:
 
 Python_Assignment_Kinney.ipynb
 
-    Contains code and workflow
+   Contains code and workflow
 
 
 Files for running script:
