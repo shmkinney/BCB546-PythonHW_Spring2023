@@ -6,7 +6,14 @@ Python script:
 
 Python_Assignment_Kinney.ipynb
 
-   Contains code and workflow
+Contains code and workflow
+
+&nbsp;
+
+Files created from running script:
+
+penguins_mass_cytb.csv
+
 
 &nbsp;
 
